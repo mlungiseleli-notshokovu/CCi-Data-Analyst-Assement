@@ -1,0 +1,10 @@
+What I gathered from playing around with the data is the following:
+
+- The overall average tracc_maturity score is 1.95. This can be used as a base number when tracking performance. Clients with a score less than 1.95 need to be looked at more. Before introducing ways to improve the score, the cause will need be investigated and mitigation methods be put in place. These may include exploring other tracc practices that the client was not using or suggest those that are usually used by top performing clients.
+
+- Not all clients have adopted all 5 practices. This may be due to some clients not having the right systems/environment to apply such practices. The 'Leading and Managing Change' pratice is only used in 7 out 25 countries. The rest of the 4 practices are popular amongst all clients and countries.
+
+- 5S and Teamwork seem to have higher scores than the rest of the practices. 
+
+- A country having lots of clients does not mean a higher maturity score. France with its 4 clients has higher scores than Germany with 8 clients and more sites. 
+
